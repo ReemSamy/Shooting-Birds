@@ -9,7 +9,7 @@ body{
 {
 
     position: absolute;
-    padding: 41px 104px;
+    padding: 40px 92px;
     text-align: center;
     font-weight: bold;
     color: rgb(8, 8, 0);
@@ -19,7 +19,7 @@ body{
     backdrop-filter: blur(10px);
     box-shadow: -2px 3px 11px 0px #181817;
     height: 210px;
-    left: 502px;
+    left: 476px;
 }
 .container2 {
     text-align: center;
