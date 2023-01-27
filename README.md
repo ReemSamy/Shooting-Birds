@@ -1,4 +1,4 @@
-#                                                     Shooting-Birds
+#  Shooting-Birds
 Game of Birds each bird has its own score when these birds reach to the surrounding area of the falling bomb they must be killed
 # Description Of the Game:
 1- Game contains 2 pages and only one level Index.html and game.html
